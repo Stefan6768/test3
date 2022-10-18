@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="gesundheitsmanagement-super-mario.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="IfG-1K-Z50">
-                                <rect key="frame" x="-46" y="72" width="768" height="1005"/>
+                                <rect key="frame" x="-52" y="73" width="772" height="1005"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="  Username" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="adw-6M-E1c">
@@ -41,20 +41,20 @@
                                     <color key="baseBackgroundColor" systemColor="labelColor"/>
                                 </buttonConfiguration>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1022902.png" translatesAutoresizingMaskIntoConstraints="NO" id="8Bl-gR-bKF">
-                                <rect key="frame" x="47" y="633" width="366" height="198"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Yoshi-SSB4-Artwork.png" translatesAutoresizingMaskIntoConstraints="NO" id="ffs-UA-RXI">
-                                <rect key="frame" x="110" y="664" width="218" height="95"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png" translatesAutoresizingMaskIntoConstraints="NO" id="JHL-qo-S0p">
-                                <rect key="frame" x="76" y="470" width="240" height="110"/>
+                                <rect key="frame" x="76" y="473" width="240" height="110"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="GreenShell_-_MarioPartyStarRush.png" translatesAutoresizingMaskIntoConstraints="NO" id="4n2-4A-cLh">
-                                <rect key="frame" x="241" y="513" width="46" height="83"/>
+                                <rect key="frame" x="235" y="514" width="46" height="83"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Yoshi-SSB4-Artwork.png" translatesAutoresizingMaskIntoConstraints="NO" id="7df-2X-zN8">
+                                <rect key="frame" x="79" y="638" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1022902.png" translatesAutoresizingMaskIntoConstraints="NO" id="hit-TP-ZOY">
+                                <rect key="frame" x="28" y="617" width="373" height="227"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
