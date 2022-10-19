@@ -13,11 +13,6 @@
 		0137399728FEAB1100DB51B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0137399528FEAB1100DB51B1 /* Main.storyboard */; };
 		0137399928FEAB1200DB51B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0137399828FEAB1200DB51B1 /* Assets.xcassets */; };
 		0137399C28FEAB1200DB51B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0137399A28FEAB1200DB51B1 /* LaunchScreen.storyboard */; };
-		013739A428FEAC6000DB51B1 /* Yoshi-SSB4-Artwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 013739A328FEAC6000DB51B1 /* Yoshi-SSB4-Artwork.png */; };
-		013739A628FEAC7200DB51B1 /* GreenShell_-_MarioPartyStarRush.png in Resources */ = {isa = PBXBuildFile; fileRef = 013739A528FEAC7200DB51B1 /* GreenShell_-_MarioPartyStarRush.png */; };
-		013739A828FEAC8300DB51B1 /* purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png in Resources */ = {isa = PBXBuildFile; fileRef = 013739A728FEAC8300DB51B1 /* purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png */; };
-		013739AA28FEAC9D00DB51B1 /* gesundheitsmanagement-super-mario.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 013739A928FEAC9D00DB51B1 /* gesundheitsmanagement-super-mario.jpg */; };
-		013739AC28FEACA900DB51B1 /* 1022902.png in Resources */ = {isa = PBXBuildFile; fileRef = 013739AB28FEACA900DB51B1 /* 1022902.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,11 +24,6 @@
 		0137399828FEAB1200DB51B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0137399B28FEAB1200DB51B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0137399D28FEAB1200DB51B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		013739A328FEAC6000DB51B1 /* Yoshi-SSB4-Artwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Yoshi-SSB4-Artwork.png"; path = "../../Downloads/1.2 Mario_Bilder/Yoshi-SSB4-Artwork.png"; sourceTree = "<group>"; };
-		013739A528FEAC7200DB51B1 /* GreenShell_-_MarioPartyStarRush.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "GreenShell_-_MarioPartyStarRush.png"; path = "../../Downloads/1.2 Mario_Bilder/GreenShell_-_MarioPartyStarRush.png"; sourceTree = "<group>"; };
-		013739A728FEAC8300DB51B1 /* purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png"; path = "../../Downloads/1.2 Mario_Bilder/purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png"; sourceTree = "<group>"; };
-		013739A928FEAC9D00DB51B1 /* gesundheitsmanagement-super-mario.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gesundheitsmanagement-super-mario.jpg"; path = "../../Downloads/1.2 Mario_Bilder/gesundheitsmanagement-super-mario.jpg"; sourceTree = "<group>"; };
-		013739AB28FEACA900DB51B1 /* 1022902.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1022902.png; path = "../../Downloads/1.2 Mario_Bilder/1022902.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,11 +61,6 @@
 				0137399328FEAB1100DB51B1 /* ViewController.swift */,
 				0137399528FEAB1100DB51B1 /* Main.storyboard */,
 				0137399828FEAB1200DB51B1 /* Assets.xcassets */,
-				013739A528FEAC7200DB51B1 /* GreenShell_-_MarioPartyStarRush.png */,
-				013739A328FEAC6000DB51B1 /* Yoshi-SSB4-Artwork.png */,
-				013739A928FEAC9D00DB51B1 /* gesundheitsmanagement-super-mario.jpg */,
-				013739AB28FEACA900DB51B1 /* 1022902.png */,
-				013739A728FEAC8300DB51B1 /* purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png */,
 				0137399A28FEAB1200DB51B1 /* LaunchScreen.storyboard */,
 				0137399D28FEAB1200DB51B1 /* Info.plist */,
 			);
@@ -141,12 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0137399C28FEAB1200DB51B1 /* LaunchScreen.storyboard in Resources */,
-				013739A628FEAC7200DB51B1 /* GreenShell_-_MarioPartyStarRush.png in Resources */,
-				013739A428FEAC6000DB51B1 /* Yoshi-SSB4-Artwork.png in Resources */,
 				0137399928FEAB1200DB51B1 /* Assets.xcassets in Resources */,
-				013739A828FEAC8300DB51B1 /* purepng.com-super-mario-jumpingmariofictional-charactervideo-gamefranchisenintendodesigner-1701528623664755si.png in Resources */,
-				013739AA28FEAC9D00DB51B1 /* gesundheitsmanagement-super-mario.jpg in Resources */,
-				013739AC28FEACA900DB51B1 /* 1022902.png in Resources */,
 				0137399728FEAB1100DB51B1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
